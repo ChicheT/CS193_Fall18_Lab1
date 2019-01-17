@@ -2,6 +2,6 @@
 
 # Chiche's first CS193 Lab
 
-- My favorite things about Purdue CS193
 - I will learn useful tools in the couse.
-- The course will not put lots of pressure on me.
+- I will also make some new friends in Purdue.
+- Most importantly, the course will not put lots of pressure on me.
